@@ -1,2 +1,2 @@
 # kernel
-An OS written in C++.
+An operating system written in C++.
